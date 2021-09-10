@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="187px" height="188px" viewBox="0 0 187 188" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>empt</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(-3.666667, -27.212121)">
+            <rect id="Rectangle" fill="#000000" x="3.66666667" y="27.7121212" width="187" height="187"></rect>
+            <text id="E" font-family="Futura-Bold, Futura" font-size="100" font-weight="bold" fill="#FFFFFF">
+                <tspan x="30" y="104">E</tspan>
+            </text>
+            <text id="P" font-family="Futura-Bold, Futura" font-size="100" font-weight="bold" fill="#FFFFFF">
+                <tspan x="105.484848" y="104">P</tspan>
+            </text>
+            <text id="M" font-family="Futura-Bold, Futura" font-size="110" font-weight="bold" fill="#FFFFFF">
+                <tspan x="0" y="213.393939">M</tspan>
+            </text>
+            <text id="T" font-family="Futura-Bold, Futura" font-size="110" font-weight="bold" fill="#FFFFFF">
+                <tspan x="132.545455" y="213.393939">T</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Slice 1</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle" fill="#000000" x="0" y="0" width="300" height="300"></rect>
+            <text id="E" font-family="Futura-Bold, Futura" font-size="100" font-weight="bold" fill="#FFFFFF">
+                <tspan x="74.3333333" y="133.787879">E</tspan>
+            </text>
+            <text id="P" font-family="Futura-Bold, Futura" font-size="100" font-weight="bold" fill="#FFFFFF">
+                <tspan x="149.818182" y="133.787879">P</tspan>
+            </text>
+            <text id="M" font-family="Futura-Bold, Futura" font-size="100" font-weight="bold" fill="#FFFFFF">
+                <tspan x="54.3333333" y="227.181818">M</tspan>
+            </text>
+            <text id="T" font-family="Futura-Bold, Futura" font-size="100" font-weight="bold" fill="#FFFFFF">
+                <tspan x="176.878788" y="227.181818">T</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

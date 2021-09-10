@@ -1,0 +1,14 @@
+ffmpeg -i almond.mp3 -filter:v "setpts=2.0*PTS" almond-slow.mp3
+
+ffmpeg -i almond.m4a -filter_complex setpts=4*PTS;atempo=0.5,atempo=0.5 almond-slow.mp3
+
+ffmpeg -i "almond.mp3" -af asetrate=39800*0.9,aresample=39800 almond-low.mp3
+
+ ffmpeg -i almond.m4a -af asetrate=44100*0.9, aresample=44100,atempo=1/0.9 almond-low.m4a 
+
+ffmpeg -i almond.mp4 -filter:v "setpts=2.0*PTS" almond-slow.mp4
+
+ffmpeg -i almond.mp3 -filter:a "atempo=0.5" -vn almond-slow.mp3
+
+
+

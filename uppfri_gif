@@ -1,0 +1,1 @@
+ffmpeg -i uppfri_gif.mov -pix_fmt rgb8 -r 10 uppfri_gif.gif && gifsicle -O3 uppfri_gif.gif -o uppfri_gif.gif
